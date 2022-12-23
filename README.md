@@ -1,5 +1,6 @@
 # MSc_project
-Masters project on Few Shot Object Detection 
+"Object Detection via Few-shot Learning" 
+Marked Distinction (88%)
 
 Training and test script can be found in train_test.py 
 
